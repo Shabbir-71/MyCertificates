@@ -1,2 +1,1 @@
-# MyCertificates
-This Repository contains my academic documents of SSC, HSC and BSc.
+Here, the collection of all of my academic documents is uploaded. This collection includes the academic transcript and certificate of my SSC and HSC issued by education board of Dinajpur (SSC) and Dhaka (HSC). It also contains the academic transcript and the provisional certificate of my BSc.(Engg.) in CSE degree issued by my university, Hajee Mohammad Danesh Science and Technology University.
